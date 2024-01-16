@@ -43,9 +43,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             echo "- $error<br>";
         }
     }
-} else {
-    // Not a POST request, display a 403 forbidden error
-    header("HTTP/1.1 403 Forbidden");
-    echo "You are not allowed to access this page.";
 }
 ?>
