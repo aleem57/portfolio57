@@ -444,14 +444,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                 <div class="skill-item wow fadeInUp delay-0-4s">
                                     <img src="assets/images/skills/skill3.png" alt="Skill" />
                                     <h5>Photoshop</h5>
-                                    <span class="percent">99%</span>
+                                    <span class="percent">98%</span>
                                 </div>
                             </div>
 							  <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-5s">
                                     <img src="assets/images/skills/skill8.png" alt="Skill" />
                                     <h5>Sketch</h5>
-                                    <span class="percent">84%</span>
+                                    <span class="percent">95%</span>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
@@ -464,8 +464,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                              <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-3s">
                                     <img src="assets/images/skills/invision.png" alt="Skill" />
-                                    <h5>invision</h5>
-                                    <span class="percent">96%</span>
+                                    <h5>Invision</h5>
+                                    <span class="percent">95%</span>
                                 </div>
                             </div>
                           
@@ -473,63 +473,63 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                 <div class="skill-item wow fadeInUp delay-0-5s">
                                     <img src="assets/images/skills/html-5.png" alt="Skill" />
                                     <h5>HTML 5</h5>
-                                    <span class="percent">74%</span>
+                                    <span class="percent">99%</span>
                                 </div>
                             </div>
 							<div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-5s">
                                     <img src="assets/images/skills/bootstrap.png" alt="Skill" />
                                     <h5>Bootstrap</h5>
-                                    <span class="percent">74%</span>
+                                    <span class="percent">99%</span>
                                 </div>
                             </div>
 							<div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-5s">
                                     <img src="assets/images/skills/css-3.png" alt="Skill" />
                                     <h5>CSS 3</h5>
-                                    <span class="percent">74%</span>
+                                    <span class="percent">99%</span>
                                 </div>
                             </div>
 							  <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-5s">
                                     <img src="assets/images/skills/elementor.png" alt="Skill" />
                                     <h5>Elementor</h5>
-                                    <span class="percent">74%</span>
+                                    <span class="percent">99%</span>
                                 </div>
                             </div>
 							<div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-5s">
                                     <img src="assets/images/skills/skill6.png" alt="Skill" />
                                     <h5>Webflow</h5>
-                                    <span class="percent">74%</span>
+                                    <span class="percent">90%</span>
                                 </div>
                             </div>
 							<div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-3s">
                                     <img src="assets/images/skills/skill2.png" alt="Skill" />
                                     <h5>Tailwand</h5>
-                                    <span class="percent">93%</span>
+                                    <span class="percent">90%</span>
                                 </div>
                             </div>
 							<div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-4s">
                                     <img src="assets/images/skills/github.png" alt="Skill" />
                                     <h5>Git</h5>
-                                    <span class="percent">52%</span>
+                                    <span class="percent">90%</span>
                                 </div>
                             </div>
 							<div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-5s">
                                     <img src="assets/images/skills/skill4.png" alt="Skill" />
                                     <h5>WordPress</h5>
-                                    <span class="percent">74%</span>
+                                    <span class="percent">95%</span>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-2s">
                                     <img src="assets/images/skills/react.png" alt="Skill" />
                                     <h5>React</h5>
-                                    <span class="percent">95%</span>
+                                    <span class="percent">90%</span>
                                 </div>
                             </div>
 							
@@ -537,15 +537,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-4s">
                                     <img src="assets/images/skills/shopify.png" alt="Skill" />
-                                    <h5>shopify</h5>
-                                    <span class="percent">52%</span>
+                                    <h5>Shopify</h5>
+                                    <span class="percent">95%</span>
                                 </div>
                             </div>
 							<div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                 <div class="skill-item wow fadeInUp delay-0-4s">
                                     <img src="assets/images/skills/magento.png" alt="Skill" />
-                                    <h5>magento</h5>
-                                    <span class="percent">52%</span>
+                                    <h5>Magento</h5>
+                                    <span class="percent">95%</span>
                                 </div>
                             </div>
 							
@@ -582,7 +582,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/mumandyou.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://mumandyou.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">UK based E-Commerce)</span>
@@ -594,10 +594,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/mumandyou-us.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://mumandyou.us/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
-                            <span class="sub-title">UK based E-Commerce</span>
+                            <span class="sub-title">US based E-Commerce</span>
                             <h3><a href="#">Mum &amp; You</a></h3>
                         </div>
                     </div>
@@ -608,7 +608,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-4s">
                         <div class="project-image">
                             <img src="assets/images/projects/captainzack.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://captainzack.in/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Pet Care E-Commerce</span>
@@ -622,7 +622,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/themap.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://themap.news/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">News Website</span>
@@ -636,7 +636,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-4s">
                         <div class="project-image">
                             <img src="assets/images/projects/fieldassist.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://www.fieldassist.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Sales and Distribution Software Platform </span>
@@ -650,7 +650,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/12flags.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://12flags.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Fund Raising for business</span>
@@ -664,7 +664,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/thepixen.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="http://thepixen.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Photographer</span>
@@ -678,7 +678,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/eonclinics.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://www.eonclinics.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Dental Implants</span>
@@ -692,7 +692,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/musclefuel.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="#" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Workout Supplement E-Commerce</span>
@@ -706,7 +706,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/BritanniaMarine.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="#" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Ship parts and equipment</span>
@@ -719,7 +719,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/pnfit.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://pnfit.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Health Nutrition&#039;s &amp; Fitness Supplement&#039;s Store</span>
@@ -733,7 +733,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/purefruittechnologies.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://www.purefruittechnologies.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Mangoxan Mangosteen Fruit Juice Online</span>
@@ -747,7 +747,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/nationalach.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://nationalach.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Echecks and Credit Card Payments Processing</span>
@@ -762,7 +762,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/zeopto.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://www.zeopto.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Digital Transformation Drive-Rise with SAP</span>
@@ -776,7 +776,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/sensbodycare.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://sensbodycare.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Bodycare Products</span>
@@ -790,7 +790,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/pettofoods.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://pettofoods.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Pet Care Foods E-Commerce</span>
@@ -804,7 +804,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/goodmatch.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://www.goodmatch.it/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Italy based E-Commerce</span>
@@ -818,7 +818,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/lensexperts.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://lensexperts.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Contacts Lenses E-Commerce </span>
@@ -832,7 +832,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/pureceuticalsskincare.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://pureceuticalsskincare.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Natural Skincare Products</span>
@@ -846,7 +846,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/unscratchthesurface.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="https://unscratchthesurface.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Large Window &amp; Door Resurfacing</span>
@@ -860,7 +860,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="project-item style-two wow fadeInUp delay-0-2s">
                         <div class="project-image">
                             <img src="assets/images/projects/ricebeltofficials.jpg" alt="Project">
-                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <a href="http://ricebeltofficials.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="project-content">
                             <span class="sub-title">Sports Officials</span>
