@@ -912,7 +912,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <!-- START CONTACT FORM DESIGN AREA -->
                 <div class="col-lg-8">
                     <div class="contact-form contact-form-area wow fadeInUp delay-0-4s">
-                        <form id="contactForm" class="contactForm" name="contactForm" action="http://shoppingsale.in/portfolio/index.php" method="post">
+                        <form id="contactForm" class="contactForm" name="contactForm" action="https://aleem57.netlify.app/index.php" method="post">
 						
                             <div class="row">
                                 <div class="col-md-6">
