@@ -142,19 +142,7 @@
     </section>
     <!-- / END HEADER DESIGN AREA -->
 	
-	<?php if($success) {
-		echo "Mail sent successfully";
-	} else if(count($erros)>0) {
-		$errorContents = "<p>The form contains the following errors:</p>";
-		$errorContents = $errorContents."<ul>";
-        foreach ($errors as $error) {
-			
-           $errorContents = $errorContents."<li>".$error."</li>";
-        }
-		$errorContents = $errorContents."</ul>";
-		echo $errorContents;
-	}
-	?>
+	
     <!-- START ABOUT DESIGN AREA -->
     <section id="about" class="about-area">
         <div class="container">
