@@ -163,7 +163,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <!-- START HERO DESIGN AREA -->
                     <div class="hero-content rmb-25 wow fadeInUp delay-0-2s text-center">
                         <h2>Hi! 👋 My name is Aleem Akhtar</h2>
-                         <h1>Team Lead,UX / UX Developer, <span>Shopify, WordPress, React, Magento UI</span> Developer</h1>
+                        <h1>UX / UX, <span>Shopify, WordPress, React, Magento UI</span> Developer</h1>
                         <div class="dot-shape">
                             <img src="assets/images/shape/about-dot.png" alt="Shape" />
                         </div>
@@ -282,7 +282,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                     </div>
                                     <div class="content">
                                         <span class="years">Sep 2017 - Present</span>
-                                        <h4>Senior UI/UX Developer</h4>
+                                         <h4>Team Lead</h4>
                                         <span class="company">EZ Commerce India (Narana Tech Pvt Ltd)</span>
                                     </div>
                                 </div>
