@@ -163,7 +163,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <!-- START HERO DESIGN AREA -->
                     <div class="hero-content rmb-25 wow fadeInUp delay-0-2s text-center">
                         <h2>Hi! 👋 My name is Aleem Akhtar</h2>
-                        <h1>UX / UX, <span>Shopify, WordPress, React, Magento UI</span> Developer</h1>
+                         <h1>Team Lead,UX / UX Developer, <span>Shopify, WordPress, React, Magento UI</span> Developer</h1>
                         <div class="dot-shape">
                             <img src="assets/images/shape/about-dot.png" alt="Shape" />
                         </div>
@@ -178,7 +178,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <!-- START COUNTER DESIGN AREA -->
                     <div class="hero-counter-area d-flex justify-content-around wow fadeInUp delay-0-4s">
                         <div class="counter-item counter-text-wrap">
-                            <span class="count-text plus" data-speed="3000" data-stop="11">0</span>
+                            <span class="count-text plus" data-speed="3000" data-stop="12">0</span>
                             <span class="counter-title">Years Of Experience</span>
                         </div>
                         <div class="counter-item counter-text-wrap">
